@@ -1,0 +1,6 @@
+{
+  "name": "MANIPUR AI - Intelligent Assistant Platform",
+  "description": "Your State. Your Language. Your AI. Dedicated intelligent digital assistant for Manipur covering local culture, tourism, government services, history, education, and multilingual conversation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
